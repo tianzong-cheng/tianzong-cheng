@@ -1,16 +1,25 @@
-### Hi there 👋
+## About Tianzong Cheng!
 
-<!--
-**tianzong-cheng/tianzong-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chengtianzong@sjtu.edu.cn
 
-Here are some ideas to get you started:
+### EDUCATION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Shanghai Jiao Tong University, Shanghai, China
+
+BS in ECE, Expected graduate year: 2026
+
+### SKILLS
+
+Learning Deep Learning, know a little bit about modern control theory.
+
+Languages: C++, Python
+
+### PROJECT EXPERIENCE
+
+**Swerve-Drive Robot** | Controller Design, Electrical System Design, Embedded System Design | 12/2022 - 8/2023
+
+**Wheel-Legged Robot** | Controller Design, Electrical System Design, Embedded System Design | 11/2023 - PRESENT
+
+### AWARDS
+
+Winner of RoboMaster University Championship 2023
