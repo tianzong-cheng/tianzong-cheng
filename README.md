@@ -4,6 +4,8 @@ chengtianzong@sjtu.edu.cn
 
 Shanghai Jiao Tong University, BS in ECE, Expected graduate year: 2026
 
-Learning Deep Learning, know a little bit about modern control theory.
+Member of Team Jiaoloong in 2023 and 2024, two-time championship winner
 
-Part of Team Jiaoloong, the winning team of the RoboMaster University Championship 2023 and 2024.
+Intern at Shanghai Qi Zhi Institute
+
+Interests: Robotis
